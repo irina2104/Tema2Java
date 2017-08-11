@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="110" started-at="2017-08-03T13:43:13Z" finished-at="2017-08-03T13:43:13Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="110" started-at="2017-08-03T13:43:13Z" finished-at="2017-08-03T13:43:13Z">
+      <class name="com.endava.test.AddTest">
+        <test-method status="PASS" signature="newCalc()[pri:0, instance:com.endava.test.AddTest@f10a6f]" name="newCalc" is-config="true" duration-ms="47" started-at="2017-08-03T16:43:13Z" finished-at="2017-08-03T16:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newCalc -->
+        <test-method status="PASS" signature="addDoubleIT()[pri:0, instance:com.endava.test.AddTest@f10a6f]" name="addDoubleIT" duration-ms="16" started-at="2017-08-03T16:43:13Z" finished-at="2017-08-03T16:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDoubleIT -->
+        <test-method status="PASS" signature="addIntIT()[pri:0, instance:com.endava.test.AddTest@f10a6f]" name="addIntIT" duration-ms="0" started-at="2017-08-03T16:43:13Z" finished-at="2017-08-03T16:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addIntIT -->
+      </class> <!-- com.endava.test.AddTest -->
+      <class name="com.endava.test.FactorialTest">
+        <test-method status="PASS" signature="factorialIT()[pri:0, instance:com.endava.test.FactorialTest@babb1]" name="factorialIT" duration-ms="0" started-at="2017-08-03T16:43:13Z" finished-at="2017-08-03T16:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- factorialIT -->
+      </class> <!-- com.endava.test.FactorialTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
